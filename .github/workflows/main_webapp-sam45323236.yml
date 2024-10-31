@@ -6,7 +6,9 @@ name: Build and deploy ASP.Net Core app to Azure Web App - webapp-sam45323236
 on:
   push:
     branches:
-      - main
+    <h1>My Gallery</h1>
+    <h1>Portfolio Gallery</h1>
+<P>This is a simple .NET web project.</P>
   workflow_dispatch:
 
 jobs:
